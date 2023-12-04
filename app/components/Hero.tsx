@@ -28,7 +28,7 @@ export default async function Hero() {
         <div className="mb-12 flex w-full md:mb-16 lg:w-2/3">
           <div className="relative left-12 top-12 z-10 -ml-12 overflow-hidden rounded-lg bg-gray-100 shadow-lg md:left-16 md:top-16 lg:ml-0">
             <Image
-              src={urlFor(data.image[1]).url()}
+              src="https://cdn.sanity.io/images/mhnho42r/production/99d58f88814c9af2c5021fd59dc53ae30200e4db-3804x2084.jpg"
               alt="Great Photo"
               className="h-full w-full object-cover object-center"
               priority
@@ -39,7 +39,7 @@ export default async function Hero() {
 
           <div className="overflow-hidden rounded-lg bg-gray-100 shadow-lg">
             <Image
-              src={urlFor(data.image2).url()}
+              src="https://cdn.sanity.io/images/mhnho42r/production/ea49044b1631df6889c8f7be1fe07cec5c90ad32-1060x964.jpg"
               alt="Great Photo"
               className="h-full w-full object-cover object-center"
               width={500}
