@@ -18,7 +18,7 @@ export function Teens() {
     <div className="bg-white pb-6 sm:pb-8 lg:pb-12">
       <Hero />
       <Newest />
-      <Footer />
+     
     </div>
   );
 }
