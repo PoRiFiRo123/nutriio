@@ -21,3 +21,4 @@ export function Teens() {
       <Footer />
     </div>
   );
+}
