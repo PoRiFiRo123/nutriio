@@ -11,7 +11,7 @@ const links = [
   { name: "Superfoods", href: "/Superfoods" },
   { name: "Sprouted Flours", href: "/SproutedFlours" },
   { name: "Ready to Cook", href: "/ReadytoCook" },
-  //{ name: "Teens", href: "/Teens" },
+  { name: "Teens", href: "/Hero" },
 ];
 
 export default function Navbar() {
