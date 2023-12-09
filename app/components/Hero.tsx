@@ -60,13 +60,13 @@ export default async function Hero() {
           </Link>
           <Link
             href="/SproutedFlours"
-            className="flex w-2/6 items-center justify-center text-gray-500 transition duration-100 hover:bg-gray-100 active:bg-gray-200"
+            className="flex w-3/6 items-center justify-center text-gray-500 transition duration-100 hover:bg-gray-100 active:bg-gray-200"
           >
             Sprouted Flours
           </Link>
           <Link
             href="/ReadytoCook"
-            className="flex w-2/6 items-center justify-center text-gray-500 transition duration-100 hover:bg-gray-100 active:bg-gray-200"
+            className="flex w-3/6 items-center justify-center text-gray-500 transition duration-100 hover:bg-gray-100 active:bg-gray-200"
           >
             Ready to Cook
           </Link>
